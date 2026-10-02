@@ -674,6 +674,32 @@
 
 ---
 
+---
+
+## 🏢 关于我们
+
+<p align="center">
+  <a href="http://www.net188.net">
+    <img src="http://www.net188.net/images/logo1.png" alt="Net188 Logo" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Net188 · 互联网技术服务</strong>
+</p>
+
+<p align="center">
+  专注于跨平台应用开发、AI Agent 集成与大模型应用落地。<br/>
+  提供从产品设计、开发实施到部署运维的全栈技术解决方案。
+</p>
+
+<p align="center">
+  🌐 <a href="http://www.net188.net"><strong>www.net188.net</strong></a>
+</p>
+
+---
+
+
 ## 七、总结
 
 外贸综合服务平台小程序通过整合需求发布、智能匹配、订单管理、支付结算、培训教育、供应链管理等功能，构建了一个完整的外贸服务生态系统。平台采用S2B2C模式，融合丹纳赫管理体系，实现服务质量的持续改进，为外贸企业提供一站式综合服务解决方案。
